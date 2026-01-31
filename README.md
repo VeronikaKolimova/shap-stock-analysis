@@ -1,9 +1,12 @@
 # 🧠 Explainable ML Analysis of NYSE Stocks with SHAP
 
-https://img.shields.io/badge/Python-3.11-blue
+[https://img.shields.io/badge/Python-3.11-blue
 https://img.shields.io/badge/scikit--learn-1.3.0-orange
 https://img.shields.io/badge/SHAP-0.44.0-red
-https://img.shields.io/badge/License-MIT-green
+https://img.shields.io/badge/License-MIT-green](https://img.shields.io/badge/Python-3.11-blue
+https://img.shields.io/badge/scikit--learn-1.3.0-orange
+https://img.shields.io/badge/SHAP-0.44.0-red
+https://img.shields.io/badge/License-MIT-green)
 
 This project focuses on binary classification of stock growth potential (Upside/Downside) for NYSE-listed companies, with a strong emphasis on model interpretability using **SHAP (SHapley Additive exPlanations)**.
 
@@ -32,13 +35,6 @@ NYSE stock data with features such as:
 - SHAP (Shapley values for model explanation)
 - matplotlib, seaborn (visualizations)
 - TensorFlow (simple baseline model)
-
-## Производительность моделей
-- Модель	Accuracy	ROC‑AUC	F1 (macro)
-- Logistic Regression	0.750	0.835	0.681
-- Random Forest	0.893	0.748	0.755
-- Gradient Boosting	0.821	0.817	0.717
-
 
 ## Key Insights
 - Identified the most influential financial indicators for Upside/Downside predictions.
