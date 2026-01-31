@@ -1,4 +1,9 @@
-# Explainable ML Analysis of NYSE Stocks with SHAP
+# 🧠 Explainable ML Analysis of NYSE Stocks with SHAP
+
+https://img.shields.io/badge/Python-3.11-blue
+https://img.shields.io/badge/scikit--learn-1.3.0-orange
+https://img.shields.io/badge/SHAP-0.44.0-red
+https://img.shields.io/badge/License-MIT-green
 
 This project focuses on binary classification of stock growth potential (Upside/Downside) for NYSE-listed companies, with a strong emphasis on model interpretability using **SHAP (SHapley Additive exPlanations)**.
 
