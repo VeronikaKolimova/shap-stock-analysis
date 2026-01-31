@@ -33,6 +33,13 @@ NYSE stock data with features such as:
 - matplotlib, seaborn (visualizations)
 - TensorFlow (simple baseline model)
 
+## Производительность моделей
+- Модель	Accuracy	ROC‑AUC	F1 (macro)
+- Logistic Regression	0.750	0.835	0.681
+- Random Forest	0.893	0.748	0.755
+- Gradient Boosting	0.821	0.817	0.717
+
+
 ## Key Insights
 - Identified the most influential financial indicators for Upside/Downside predictions.
 - Provided transparent, interpretable explanations for each prediction using SHAP.
