@@ -2,6 +2,11 @@
 
 This project focuses on binary classification of stock growth potential (Upside/Downside) for NYSE-listed companies, with a strong emphasis on model interpretability using **SHAP (SHapley Additive exPlanations)**.
 
+## Quick Start
+To explore the full analysis interactively, open the notebook in your browser:
+
+[![Open in NBViewer](https://img.shields.io/badge/Open%20in-NBViewer-orange?logo=jupyter&logoColor=orange)](https://nbviewer.org/github/VeronikaKolimova/shap-stock-analysis/blob/main/L_03.ipynb)
+
 
 ## Project Overview
 - **Goal**: Predict whether a stock has Upside (>0% growth forecast) or Downside (<0% growth forecast) based on fundamental financial indicators.
